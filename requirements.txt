@@ -1,0 +1,4 @@
+Django==3.2
+Pillow #Libreria que me permite trabajar imagenes con Django 
+mysqlclient #base de datos
+
